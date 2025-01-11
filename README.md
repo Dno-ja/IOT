@@ -19,15 +19,15 @@ A user-friendly dashboard for real-time data visualization and device control.
 Analyze historical data and forecast future trends for better decision-making.
 
 # How It Works
-# 1.Sensor Integration
+### 1.Sensor Integration
 Connect temperature and humidity sensors to the IoT system.
 
-# 2.Actuator Notifications
+### 2.Actuator Notifications
 A physical actuator alerts users based on predefined humidity thresholds.
 
-# 3.Node-RED Dashboard
+### 3.Node-RED Dashboard
 - Monitor environmental conditions in real-time through the dashboard.
 - Control connected devices seamlessly.
 
-# 4.Predictive Insights
+### 4.Predictive Insights
 Leverage predictive analytics for understanding past trends and preparing for future conditions.
